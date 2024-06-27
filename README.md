@@ -1,6 +1,6 @@
 # TJU_AutoEvaluation
 
-用 python + selenium 完成的自动评教脚本
+用 python + selenium 完成的 TJU 自动评教脚本
 
 使用方法：
 
